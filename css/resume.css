@@ -174,3 +174,4 @@ a {
 a:hover, a:focus, a:active {
   color: #273582;
 }
+nobr  {  white-space: nowrap;  hyphens: none;  }
