@@ -4,9 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 .dot {
-  height: 25px;
-  width: 25px;
+  height: 12px;
+  width: 12px;
   background-color: #4c9c7d;
+  vertical-align: text-bottom;
   border-radius:50%;
   display: inline-block;
 }
