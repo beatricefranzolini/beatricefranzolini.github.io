@@ -18,6 +18,19 @@ body {
   color: #6d7a72;
 }
 
+body {
+  font-family: "Sorts Mill Goudy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sorts-mill goudy-regular-italic {
+  font-family: "Sorts Mill Goudy", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
